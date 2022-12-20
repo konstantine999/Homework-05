@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.left-block {
+    display: inline-block;
+    background-color: #2F80ED;
+    height: 900px;
+    width: 400px;
+}
+p {
+    display: inline-block;
+    font-weight: 700;
+    font-size: 24px;
+    color: #FFFFFF;
+    padding-top: 64px;
+    padding-left: 98px;
+    font-family: 'Poppins';
+    position: absolute;
+}
+.vector-logo {
+    position: absolute;
+    width: 31.67px;
+    height: 20.55px;
+    margin-top: 72.72px;
+    margin-left: 47.17px;
+}
+a {
+    text-decoration: none;
+}
+button {
+    background-color: #333333;
+    width: 300px;
+    height: 60px;
+    color: #FFFFFF;
+    font-size: 24px;
+    font-family: 'Poppins';
+    border: none;
+    margin-left: 44px;
+}
+.signup-button {
+    margin-top: 249px;
+}
+.login-button {
+    margin-top: 30px;
+}
